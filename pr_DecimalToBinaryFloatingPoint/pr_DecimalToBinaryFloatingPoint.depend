@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1717528128 source:c:\users\saleh\desktop\sali workspace\pr_decimaltobinaryfloatingpoint\source\main.cpp
-	<iostream>
-	<cmath>
-	<iomanip>
-	<iterator>
-
